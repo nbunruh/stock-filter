@@ -44,3 +44,5 @@ public class StockUtil {
 		}
 	};
 }
+
+// Copyright Nolan Unruh, 2020

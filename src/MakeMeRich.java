@@ -32,3 +32,5 @@ public class MakeMeRich {
 	}
 
 }
+
+// Copyright Nolan Unruh, 2020

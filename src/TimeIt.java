@@ -11,3 +11,5 @@ public class TimeIt {
 		}
 	}
 }
+
+// Copyright Nolan Unruh, 2020

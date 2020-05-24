@@ -12,3 +12,5 @@ public class StockInfo {
 		return ticker + " " + price + ", ";
 	}
 }
+
+// Copyright Nolan Unruh, 2020
